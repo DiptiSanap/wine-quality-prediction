@@ -24,7 +24,7 @@ To run the code in this repository, you need to have the following dependencies 
 You can install these dependencies using pip:
 
 ```
-pip install scikit-learn numpy pandas matplotlib seaborn
+pip install scikit-learn numpy pandas matplotlib seaborn xgboost
 ```
 
 ## Usage
