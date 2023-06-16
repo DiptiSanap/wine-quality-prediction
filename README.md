@@ -36,7 +36,7 @@ The repository contains the following files and directories:
 - `wine_quality_prediction.ipynb`: Python script that demonstrates the wine quality prediction using machine learning.
 - `README.md`: This file.
 
-To run the wine quality prediction using machine learning, you can execute the `wine_quality.py` script. Make sure you have the required dependencies installed. You can modify the script to experiment with different algorithms, data preprocessing techniques, or feature selection methods.
+To run the wine quality prediction using machine learning, you can execute the `wine_quality.ipynb` script. Make sure you have the required dependencies installed. You can modify the script to experiment with different algorithms, data preprocessing techniques, or feature selection methods.
 
 If you prefer a more interactive and explanatory approach, you can explore the Jupyter Notebook files in the `notebooks` directory. Each notebook covers a specific aspect of the project and provides detailed explanations along with code.
 
