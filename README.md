@@ -1,6 +1,6 @@
 # Wine Quality Prediction using Machine Learning
 
-This repository contains code and resources for predicting the quality of red wine using machine learning. The project is based on the Red Wine Quality dataset obtained from Kaggle.
+This repository contains code and resources for predicting the quality of red wine using machine learning. The project is based on the Red Wine Quality dataset obtained from Kaggle. I am submitting this as my Internship task at TechnoHacks EduTech.
 
 ## Dataset
 
