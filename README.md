@@ -19,6 +19,7 @@ To run the code in this repository, you need to have the following dependencies 
 - Pandas
 - Matplotlib
 - Seaborn
+- XGBoost
 
 You can install these dependencies using pip:
 
@@ -39,6 +40,10 @@ To run the wine quality prediction using machine learning, you can execute the `
 
 If you prefer a more interactive and explanatory approach, you can explore the Jupyter Notebook files in the `notebooks` directory. Each notebook covers a specific aspect of the project and provides detailed explanations along with code.
 
+## Conclusion
+![image](https://github.com/DiptiSanap/wine-quality-prediction/assets/107847530/34d4816f-1e22-473e-a624-48b19c21fc9d)
+
+After performing 5 different algorithms on the dataset, Random forest gave the best performance with 93% accuracy. So I decide to consider it for further evaluation.
 
 ## Acknowledgments
 
